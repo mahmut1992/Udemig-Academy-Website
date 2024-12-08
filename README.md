@@ -1,7 +1,36 @@
-# Udemigacademy-Clone
+# 🏠Udemig-Academy-Website
 
-yazılım sektörüne giriş yapacak insanların kurslar hakkında bilgi alabileceği kapsamlı bir web sitesi.
+In this repo, a construction website was designed using Html, Css and Bootstrap.
 
-# Ekran Görüntüsü
+# 🚀Features
+
+-Responsive Design
+
+-User-Friendly Interface
+
+-Dynamic Navbar
+
+-Carousel Structure
+
+-Accordion Structure
+
+# 🛠️Technologies Used
+
+-Html
+
+-Css
+
+-Js
+
+-Bootstrap
+
+# Screenshot
 
 ![Html_Css_Udemig_Proje](Udemig.gif)
+
+# 📨Contact
+
+Please contact us for your questions, comments and suggestions.
+:fratsbht@icloud.com
+
+
